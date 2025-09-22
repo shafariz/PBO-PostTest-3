@@ -1,5 +1,11 @@
 # Shafa Rizqi Nur Wahidah - 2409116041
 
+## Penjelasan Kode Program
+
+### 1. Encapsulation (getter dan setter)
+### 2. Inheritance
+### 3. Overriding
+
 ## Penjelasan Alur Program
 
 ### Menu Utama
